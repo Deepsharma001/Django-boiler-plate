@@ -172,4 +172,7 @@ The response handler then uses these centralized messages to provide consistent 
 - django-filter
 - drf-yasg (for Swagger API Docs)
   
-## Thanks 
+## Contact
+- sharmadeep5212@gmail.com
+
+## Thanks
