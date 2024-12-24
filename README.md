@@ -72,7 +72,7 @@ This project is a Django-based web application that provides a comprehensive sit
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Deepak-Deepak/Django-boilerplate.git
+   git clone https://github.com/Deepsharma001/Django-boiler-plate.git
    ```
 
 2. Create and activate a virtual environment:
